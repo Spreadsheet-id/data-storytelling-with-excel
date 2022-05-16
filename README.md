@@ -28,6 +28,8 @@ Dengan banjirnya data dan informasi di jaman transformasi digital ini maka [DQLa
 
 Kunjungi [DQLab.id](https://www.dqlab.id/) dan [Spreadsheet.id](https://www.spreadsheet.id/) untuk menjadi member dan mendapatkan informasi berkala mengenai pelatihan ini.
 
-Follow juga social media kami berikut ini:
-- [DQLab.id](https://www.dqlab.id/)
+Follow juga instagram kami berikut ini untuk informasi menarik lainnya:
+- [DQLab.id](https://www.instagram.com/dqlab/)
 - [Spreadsheet.id](https://www.instagram.com/spreadsheet.id/)
+
+Spreadsheet.id
