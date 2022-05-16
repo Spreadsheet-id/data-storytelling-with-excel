@@ -9,12 +9,17 @@ Data Storytelling adalah kemampuan dari suatu presentasi data, baik itu dalam be
 
 Dengan data storytelling, pengguna dengan cepat menggunakan pesan atau informasi yang disampaikan sebagai bahan diskusi atau untuk mengambil keputusan.
 
-Mari kita ambil contoh, dari dua grafik tren ini manakah informasi yang lebih tersampaikan dengan cepat? Dapat dipastikan Anda memilih grafik kedua.
+Mari kita ambil contoh, dari dua grafik tren ini manakah informasi yang lebih tersampaikan dengan cepat? 
+
+**Contoh Pertama**
 
 ![Grafik Satu](/assets/images/chart-enam-kabupaten-normal.png)
 
+**Contoh Kedua**
+
 ![Grafik Dua](/assets/images/chart-fokus-ke-tangerang.png)
 
+Dari pengalaman, dapat dipastikan Andaakan memilih grafik kedua. Nah, kedua contoh ini menunjukkan bahwa dengan data yang sama, namun dengan kemampuan mengelola atribut elemen grafik maka dampak yang dirasakan akan sangat berbeda.
 
 Pelatihan Data Storytelling
 =======
