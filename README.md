@@ -3,7 +3,7 @@ Repository ini adalah untuk host file-file contoh Excel yang digunakan sebagai l
 
 Jadwal terdekat untuk kursus **Pro A Digital Talent Scholarship Kominfo** pada tanggal 18 Mei 2022
 
-Data Storytelling
+Apa dan Kenapa Data Storytelling?
 =======
 Data Storytelling adalah kemampuan dari suatu presentasi data, baik itu dalam bentuk visual grafik maupun tabel dalam menyampaikan pesan atau informasi yang memiliki fokus dan jelas.
 
